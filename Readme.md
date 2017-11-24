@@ -4,6 +4,9 @@ The framework that I used,
 - Flask - web microframework - [<http://flask.pocoo.org/>](http://flask.pocoo.org/)
 - peewee - manage database - [<http://docs.peewee-orm.com/en/latest/>](http://docs.peewee-orm.com/en/latest/)
 - datatables - data display - [<https://www.datatables.net/>](https://www.datatables.net/)
+- sqlite3
+
+You could run the example locally
 
 
 Some tables of mime just too big for the zero configuration datatables, therefore, I google for a while do not find any solution, then here we are.
@@ -115,7 +118,4 @@ The html page:
     } );
 </script>
 
-```
-
-```javascript
 ```
