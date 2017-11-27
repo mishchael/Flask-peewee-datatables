@@ -1,5 +1,8 @@
 ## This project just takes a few hours of work. It's still have a lot of problems.
 
+[<http://www.jianshu.com/p/ae7c7b25c5a7>](http://www.jianshu.com/p/ae7c7b25c5a7)
+
+
 The framework that I used,
 - Flask - web microframework - [<http://flask.pocoo.org/>](http://flask.pocoo.org/)
 - peewee - manage database - [<http://docs.peewee-orm.com/en/latest/>](http://docs.peewee-orm.com/en/latest/)
