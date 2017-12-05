@@ -2,6 +2,7 @@
 
 [<http://www.jianshu.com/p/ae7c7b25c5a7>](http://www.jianshu.com/p/ae7c7b25c5a7)
 
+看了flask_peewee，下一步可能还是更想完善这个模块，将最终的用法与flask_resetful等相一致，等这个课题完成投稿之后，就会开始着手学习处理这个东西了，争取最晚过年期间开始吧
 
 The framework that I used,
 - Flask - web microframework - [<http://flask.pocoo.org/>](http://flask.pocoo.org/)
