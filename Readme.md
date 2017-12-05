@@ -2,7 +2,16 @@
 
 [<http://www.jianshu.com/p/ae7c7b25c5a7>](http://www.jianshu.com/p/ae7c7b25c5a7)
 
+---
+
 看了flask_peewee，下一步可能还是更想完善这个模块，将最终的用法与flask_resetful等相一致，等这个课题完成投稿之后，就会开始着手学习处理这个东西了，争取最晚过年期间开始吧
+
+
+总体而言，这个模块的意义根本不在于post、delete任何内容，仅仅是单纯的配合datatables进行select而已，因此没有必要搞的异常复杂，主要是完成flask的api的blueprint的自动生成，以及多段JavaScript代码的生成，便于jinja的转化，更多的是想添加关于detail-control和一些其他辅助操作的存在
+
+目前，自己使用过程中就遇到一个问题，如果将行列的顺序打乱查询结果就会出错，这个还是比较麻烦的，还是尽量通过自己生成的JavaScript代码来处理这个问题
+
+---
 
 The framework that I used,
 - Flask - web microframework - [<http://flask.pocoo.org/>](http://flask.pocoo.org/)
